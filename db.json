@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Categoria 1",
+            "descricao": "Descricao categ 1",
+            "cor": ""
+        },
+        {
+            "id": 2,
+            "nome": "Categoria 2",
+            "descricao": "Descricao categ 2",
+            "cor": ""
+        }
+    ]
+}
